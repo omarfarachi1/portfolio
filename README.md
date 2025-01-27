@@ -2,15 +2,15 @@
 
 Este es un portfolio creado desde cero con HTML, CSS y JavaScript. Para poder visualizar mis habilidades como desarrollador.
 
-##Autor -
+## Autor -
 **Omar Farachi**
 
-##Ver ejemplo en vivo
+## Ver ejemplo en vivo
 - [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
 
-##Instalación
+## Instalación
   Este proyecto no necesita de instalación. Simplemente abre la carpeta o haciendo doble click podras visualizar el .html
 
-##Licencia
+## Licencia
   MIT Public License v3.0
   No pude usarse comercialmente
