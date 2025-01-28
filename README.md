@@ -6,7 +6,7 @@ Este es un portfolio creado desde cero con HTML, CSS y JavaScript. Para poder vi
 **Omar Farachi**
 
 ## Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+- [ENLACEGITHUBPAGES](https://omarfarachi1.github.io/portfolio/)
 
 ## Instalación
   Este proyecto no necesita de instalación. Simplemente abre la carpeta o haciendo doble click podras visualizar el .html
